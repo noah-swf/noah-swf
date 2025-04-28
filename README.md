@@ -1,7 +1,7 @@
 ## Hi, Noah here👋
 I’m currently working on my Flutter app *Statisticar*!
 
-<i> Here are my statistics: </i> <br><br>
+<i> Here are my stats since Jan 8 2025: </i> <br><br>
 <img width="470" valign="top" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=noahswf&layout=compact&theme=dark&hide_border=true&hide=other" alt="Noah's WakaTime stats">
 
 <!--
