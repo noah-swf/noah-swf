@@ -1,7 +1,8 @@
 ## Hi, Noah here👋
-- 🔭 I’m currently working on my Flutter app Statisticar!
+I’m currently working on my Flutter app *Statisticar*!
 
-<img width="470" valign="top" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=noahswf&layout=compact&theme=transparent&hide_border=true&hide=other" alt="Noah's WakaTime stats">
+<i> Here are my statistics: </i> <br><br>
+<img width="470" valign="top" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=noahswf&layout=compact&theme=dark&hide_border=true&hide=other" alt="Noah's WakaTime stats">
 
 <!--
 **noah-swf/noah-swf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
